@@ -1,6 +1,4 @@
 num = int(input('Digite um numero para ver sua tabuada: '))
-#print('Sendo seu numero {}\n a sua tabuada é:\n{} \n{} \n{} \n{} \n{} \n{} \n{} \n{} \n{} \n{}'.format(n, n*1, n*2, n*3, n*4, n*5, n*6, n*7, n*8, n*9, n*10))
-
 print('-' *12)
 print('{} x {:2} = {}'.format(num, 1, num*1))
 print('{} x {:2} = {}'.format(num, 2, num*2))
